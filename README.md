@@ -2,7 +2,7 @@
 
 Offline logs from two phones and a laptop. Quantities add. A split advance is a conflict.
 
-**Author:** Tanmay Vaswani
+**Live:** https://tanmayvasvani.github.io/ops-sync/ · **Author:** Tanmay Vaswani
 
 ## What it does
 
